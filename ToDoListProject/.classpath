@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/Introduction to Hibernate Samples-20170724/hibernate_sample/hibernate_sample/jars_this_code_sample_uses/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/linoy/Downloads/geronimo-javamail_1.4_mail-1.8.3.jar/geronimo-javamail_1.4_mail-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-9.0.0.M26-windows-x64/apache-tomcat-9.0.0.M26/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-9.0.0.M26-windows-x64/apache-tomcat-9.0.0.M26/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-9.0.0.M26-windows-x64/apache-tomcat-9.0.0.M26/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/linoy/Documents/JavaEE/Code Examples/roi-proj/ToDoList-master/WebContent/WEB-INF/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
