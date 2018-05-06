@@ -257,35 +257,7 @@ public class ApplicationRouter extends HttpServlet {
 				out.print(e.getCause().getMessage());
 			}
 		}
-		// private void sendMail(String to) throws javax.mail.MessagingException {
-		// String subject = "welcome!";
-		// String text = "Welcome for To Do List website, here you can access you to do
-		// list from anywhere.";
-		//
-		// try {
-		// java.util.Properties props = System.getProperties();
-		// props.put("mail.smtp.auth", "true");
-		// props.put("mail.smtp.starttls.enable", "true");
-		// props.put("mail.smtp.host", "smtp.gmail.com");
-		// props.put("mail.smtp.port", "587");
-		// props.put("mail.smtp.starttls.enable", "true");
-		//
-		// Session mailSession = Session.getDefaultInstance(props);
-		// Message emailMessage = new MimeMessage(mailSession);
-		//
-		// emailMessage.addRecipient(Message.RecipientType.TO, new InternetAddress(to));
-		// emailMessage.setFrom(new InternetAddress("todolistweb@gmail.com"));
-		// emailMessage.setSubject(subject);
-		// emailMessage.setText(text);
-		//
-		// Transport transport = mailSession.getTransport("smtp");
-		// transport.connect("smtp.gmail.com","todolistweb@gmail.com","linoytodo1234" );
-		//
-		// } catch (AddressException ex) {
-		// ex.printStackTrace();
-		// }
-		//
-		//
+		
 	}
 
 }
